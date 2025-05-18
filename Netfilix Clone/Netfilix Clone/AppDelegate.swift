@@ -1,14 +1,15 @@
 //
 //  AppDelegate.swift
-//  weather_app_storyboard
+//  Netfilix Clone
 //
-//  Created by Ivana Tanova on 26/01/2024.
+//  Created by Ivana Tanova on 18/05/2025.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
+
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
