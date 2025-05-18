@@ -88,10 +88,10 @@
 		CE3903522DD9FF1500AEF894 = {
 			isa = PBXGroup;
 			children = (
-				CE39035D2DD9FF1500AEF894 /* Netfilix Clone */,
 				CE3903742DD9FF1800AEF894 /* Netfilix CloneTests */,
 				CE39037E2DD9FF1800AEF894 /* Netfilix CloneUITests */,
 				CE39035C2DD9FF1500AEF894 /* Products */,
+				CE39035D2DD9FF1500AEF894 /* Netfilix Clone */,
 			);
 			sourceTree = "<group>";
 		};
